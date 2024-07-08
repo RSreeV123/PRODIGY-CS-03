@@ -9,11 +9,7 @@ This Python script provides a graphical user interface (GUI) to check the streng
 - Rates the password on a scale of 1 to 7 based on its length and complexity.
 - Provides visual feedback to the user indicating whether the password is weak, moderate, strong, or very strong.
 
-## screenshot
-### weak password
-![weak](https://github.com/RSreeV123/PRODIGY-CS-03/assets/174034350/49729fc9-5c6c-43f5-999d-80abc19ac14d)
-### strong password
-![Screenshot 2024-06-27 224229](https://github.com/RSreeV123/PRODIGY-CS-03/assets/174034350/ca94b3b0-fd42-43b8-8ab2-6c749291a809)
+
 
 
 ## Requirements
