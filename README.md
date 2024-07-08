@@ -11,9 +11,9 @@ This Python script provides a graphical user interface (GUI) to check the streng
 
 ## screenshot
 ### weak password
-![weak](https://github.com/godfrey-bn/PRODIGY-CS-03/assets/174034350/49729fc9-5c6c-43f5-999d-80abc19ac14d)
+![weak](https://github.com/RSreeV123/PRODIGY-CS-03/assets/174034350/49729fc9-5c6c-43f5-999d-80abc19ac14d)
 ### strong password
-![Screenshot 2024-06-27 224229](https://github.com/godfrey-bn/PRODIGY-CS-03/assets/174034350/ca94b3b0-fd42-43b8-8ab2-6c749291a809)
+![Screenshot 2024-06-27 224229](https://github.com/RSreeV123/PRODIGY-CS-03/assets/174034350/ca94b3b0-fd42-43b8-8ab2-6c749291a809)
 
 
 ## Requirements
@@ -26,4 +26,4 @@ This Python script provides a graphical user interface (GUI) to check the streng
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/godfrey-bn/PRODIGY-CS-03.git
+   git clone https://github.com/RSreeV123/PRODIGY-CS-03.git
